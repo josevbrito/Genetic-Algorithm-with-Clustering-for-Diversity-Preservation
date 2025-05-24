@@ -40,6 +40,16 @@ The original RCGA code can be found at the following repository:
 ### Statistical Analysis:
 - ANOVA and Tukey HSD Test were used to verify whether differences in performance are statistically significant.
 
+## 🚀 How to Run
+
+To execute the code:
+
+1. Open the project folder in **RStudio**.
+2. Open the file `main.R`.
+3. Click on **Source** (or use the shortcut `Ctrl + Shift + Enter`) to run the entire script.
+
+All necessary functions and configurations are loaded automatically from `main.R`.
+
 ## 📊 Results
 
 The results include:
@@ -53,4 +63,3 @@ This project is for academic purposes under the Applied Evolutionary Computation
 ## 👨‍🏫 Author
 - José Brito – Master's Student in Computer Science at UFMA
 - Instructor: Prof. Omar Andres Carmona Cortes
-
